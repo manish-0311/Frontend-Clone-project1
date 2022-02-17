@@ -29,6 +29,11 @@ body {
     padding: 10px;
 }
 
+#navbar ul li a:hover {
+    color: #00baf2;
+
+}
+
 #navbar ul li {
     padding: 0px 10px;
 }
