@@ -9,7 +9,7 @@ body {
 
 
 #navbar {
-    padding: 10px 50px;
+    padding: 20px 60px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -84,6 +84,8 @@ body {
 
 }
 
+
+/* For download button  */
 #download {
     line-height: 10;
     padding: 10px 30px;
@@ -94,6 +96,7 @@ body {
 }
 .container {
     z-index: 1;
+    padding: 0px 30px;
 } 
 
 #download:hover {
